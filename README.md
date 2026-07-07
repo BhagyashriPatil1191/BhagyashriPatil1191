@@ -18,7 +18,11 @@ I enjoy building scalable applications and continuously learning new tools and f
 ### 🐍 Python Basics - TBD
 - Beginner-friendly Python programs  
 - Core concepts: data structures, functions, OOP  
-- Small utilities and practice problems  
+- Small utilities and practice problems
+
+### * Flutter Working POC's
+- Beginner-friendly Flutter Apps  
+
 ---
 
 ## 🔄 Currently Exploring
